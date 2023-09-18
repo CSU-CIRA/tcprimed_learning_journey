@@ -43,9 +43,9 @@ This set of learning journey notebooks is divided into the following chapters:
   [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/CSU-CIRA/tcprimed_learning_journey/blob/main/TCPRIMED_Chap3_Pixel-BasedNeuralNetwork.ipynb)<br>
   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CSU-CIRA/tcprimed_learning_journey/blob/main/TCPRIMED_Chap3_Pixel-BasedNeuralNetwork.ipynb)
 
-* [Chapter 4: Regridding Satellite Swath Data](TCPRIMED_Chap4_GriddingSwathData.ipynb)<br>
-  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/CSU-CIRA/tcprimed_learning_journey/blob/main/TCPRIMED_Chap4_GriddingSwathData.ipynb)<br>
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CSU-CIRA/tcprimed_learning_journey/blob/main/TCPRIMED_Chap4_GriddingSwathData.ipynb)
+* [Chapter 4: Regridding Satellite Swath Data](TCPRIMED_Chap4_RegriddingSwathData.ipynb)<br>
+  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/CSU-CIRA/tcprimed_learning_journey/blob/main/TCPRIMED_Chap4_RegriddingSwathData.ipynb)<br>
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CSU-CIRA/tcprimed_learning_journey/blob/main/TCPRIMED_Chap4_RegriddingSwathData.ipynb)
 
 Launch all notebooks in the Learning Journey using Jupyter lab via Binder via the badge below.<br>
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/CSU-CIRA/tcprimed_binder_sandbox/main?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252FCSU-CIRA%252Ftcprimed_learning_journey%26urlpath%3Dlab%252Ftree%252Ftcprimed_learning_journey%252F%26branch%3Dmain)
